@@ -1,0 +1,5 @@
+vosk
+fastapi
+uvicorn[standard]
+python-multipart
+pydub
