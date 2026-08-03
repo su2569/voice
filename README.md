@@ -2,3 +2,5 @@
 可以部署在本地并提供接口的语音转文字和文字转语音¿（但是现在只有语音转文字）
 
 给AstrBot的，能用就行
+
+vosk命令：uvicorn vosk_openai_api:app --host 0.0.0.0 --port 8000
