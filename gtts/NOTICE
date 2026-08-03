@@ -1,0 +1,19 @@
+Genie-TTS OpenAI Compatible API
+Copyright 2026 su2569
+
+This product includes software developed by the Genie-TTS project:
+  Genie-TTS (https://github.com/High-Logic/Genie)
+  Copyright High-Logic and Genie-TTS contributors
+  Licensed under the Apache License, Version 2.0 (the "License").
+
+This product includes software developed by the GPT-SoVITS project:
+  GPT-SoVITS (https://github.com/RVC-Boss/GPT-SoVITS)
+  Copyright RVC-Boss and GPT-SoVITS contributors
+  This software is open source under the MIT License.
+  The user is solely responsible for the use of the software and 
+  for the distribution of the sound derived from the software [citation:6].
+
+This product includes language and speech models from multiple sources.
+The Elysia model assets used in this project are sourced from:
+  WenqiOfficial (https://huggingface.co/WenqiOfficial)
+  Please refer to the individual model documentation for specific attribution requirements.
